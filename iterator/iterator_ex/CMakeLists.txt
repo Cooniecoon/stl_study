@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10.0)
-project(chrono_ex)
+project(iterator_ex)
 
 include_directories(
   include

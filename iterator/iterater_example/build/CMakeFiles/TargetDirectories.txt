@@ -1,3 +1,0 @@
-/home/coon/stl_basic/build/CMakeFiles/stl_basic.dir
-/home/coon/stl_basic/build/CMakeFiles/edit_cache.dir
-/home/coon/stl_basic/build/CMakeFiles/rebuild_cache.dir
