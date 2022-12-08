@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dll_example.dir/src/main.cpp.o -o dll_example  libdoubly_linked_list.a 
